@@ -1,0 +1,1917 @@
+fileFormatVersion: 2
+guid: be0b09376c31ae74fb38297212ce27c0
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1308
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c835d28934f7bfb49addbeb48df3da6a
+      internalID: 1222757738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1307
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd75103d6ba066c439bac800b9ed0e8e
+      internalID: 1532534102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1306
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b98b21ad0b1dfe45984fcffc1b02bc6
+      internalID: -117616024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1306
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ba0f16ba61a72e44bc7f2e7722fa305
+      internalID: 1307458018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1306
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1329c4a374fa78645866d353f96464b2
+      internalID: 1609680276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_5
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1306
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233e11a4fe5923846b76c48e0d7f8e49
+      internalID: 1140764283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_6
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1306
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4acb63025a92845a97f06ff3583cbb
+      internalID: -613276410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_7
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1305
+        width: 171
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec524c3de940dc498e9d61f2bf7d650
+      internalID: 1135237138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1036
+        width: 201
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e5fde979b3c284d9c9218453a2a155
+      internalID: 1557927288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1033
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73414a28939108d428aa996f368d9c78
+      internalID: -1902454325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1030
+        width: 213
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47fac24cb6acc84eb53d8ea14bcfdb3
+      internalID: -1288115486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1027
+        width: 218
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f9ad27a8680e494ea5bb11630e28622
+      internalID: 1460081260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1025
+        width: 223
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e195421b363d74a8b1014c00421139
+      internalID: -1651430890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_13
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1023
+        width: 227
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1204080dd7a27ed439238192a0001ad5
+      internalID: 52781613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_14
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1238
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce5839b914a5f8e479b2c93980a3d9f6
+      internalID: -1029362626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1044
+        width: 183
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb828077167fa8146897e6eac5da17a4
+      internalID: 1978285087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1039
+        width: 192
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0261d2e92d951014ebb6db339022f407
+      internalID: 363509485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 765
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ba910245b4ab54689c56b162e70c54
+      internalID: 182238688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 763
+        width: 233
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111be1b2c3696984897466127b716399
+      internalID: 1540659270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 762
+        width: 235
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0322625b0200948926ec80cb45f601
+      internalID: -692844713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_20
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 761
+        width: 237
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6173e21e125ec774e8e8704243df5c73
+      internalID: 1364985005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_21
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 760
+        width: 238
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b56822bfa3c53142aaa2fb76d6f1207
+      internalID: 781690655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_22
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 759
+        width: 239
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0654528a73271f24db9731a5c52f8560
+      internalID: -776537470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 759
+        width: 240
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c9c685a9476924b90a3c88ee4a3b28
+      internalID: -114650755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_24
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 758
+        width: 240
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1eec4fbb0d8bfb4ab91bbe36d5a4d45
+      internalID: 1927919536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 501
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19faaac56a484214fa176cb191f266f1
+      internalID: 1923682249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 501
+        width: 244
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 109713180aef19a47bebaa725a7d7158
+      internalID: -288899645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 500
+        width: 244
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c48fc5a15df45948be05a0bde57960f
+      internalID: 1300759135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 500
+        width: 246
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e096a076f0cb447b285af0598ccf89
+      internalID: 238659064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_29
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 499
+        width: 247
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7918f9cc16410fa4d8ee4080cd03e8b3
+      internalID: 1224185183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_30
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 498
+        width: 252
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ad325332e67e040bc22f61d99f6b49
+      internalID: -430422953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_31
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 498
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75d3e88b78b5ab04194e240b5e5375ca
+      internalID: 1033426796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_32
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 497
+        width: 254
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32854d15a42ee204c91fa2c50685e8c3
+      internalID: -1047659055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 255
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0f91f4f1f0bfd54fae21c2ed63a272d
+      internalID: 1421780483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5779c998c8352a547b76ef7222bd8b26
+      internalID: 1606701620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2219d762e781ead4ebf044346734940d
+      internalID: -697867596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 251
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a519d0dc8d4cec4eb1a7621a72864e3
+      internalID: 1357797114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_37
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 402
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f871cab9cb8f75c4b8d7ed43f80e32b2
+      internalID: 321539991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_38
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f04394b41c686458a883447a9e757b
+      internalID: 111941352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 241
+        width: 253
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 110fc69272b61e743b2ea7589a8243c1
+      internalID: 64690340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 249
+        width: 253
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5895a04d9b91b94ea345fb363143413
+      internalID: 1902559364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_41
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 249
+        width: 245
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b796a9b7d9c1724fad4bcc8d93bf346
+      internalID: -1335909287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_42
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 250
+        width: 231
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5acc0c0ffba29942a89392b73f0426d
+      internalID: -1781337172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e746e1f7715884247bf4cf9c4211e671
+      internalID: -803248858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3
+        width: 222
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e21b6eb119f89246bc86844442077a8
+      internalID: -1406161078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4
+        width: 217
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52d7b78bb250d5649b61239be3989e57
+      internalID: -1830665087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 11
+        width: 196
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fc5828911d166d4dacb6a67c4808160
+      internalID: -747621024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_47
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91d3fcaa24d4b34e9f059afdf657fda
+      internalID: -837786937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_48
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 15
+        width: 190
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6622e815814cae8468bebfe785c038f8
+      internalID: -1979836800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_49
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 181
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faabf303696305e4d86cb3c852e556b8
+      internalID: 399253097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_50
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 18
+        width: 191
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35d3ff0f258ad4c4e85f80c6db27e5f8
+      internalID: 749327070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_51
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 182
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac1e2e0edeae9d40ae237a8399348ff
+      internalID: -59199522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_52
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 127
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6a08eaf07a47444b5fc6687839d75a
+      internalID: 53922823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_53
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 184
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401aa1b80ddb4344db89383169af08b0
+      internalID: 1691613187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_54
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 171
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23375fdd7efa05741b9cb1f32dac6ce8
+      internalID: -599682934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 164
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 905a1b66a9a29d94bb10f3696e0119ea
+      internalID: 365004894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_56
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39d45f7e878d454da17955778d62a76
+      internalID: 83071462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_57
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0330baac0b9ed7f42b9694e1df30fd3c
+      internalID: -654238921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_58
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c215eb2f6b35d409c5034e50cb0a37
+      internalID: -1981971685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_59
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 127
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca080d9fb5185a4c88dc5d2ea684d8f
+      internalID: 1232903935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_60
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 137
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e846db7f74557e146bfd79b297b44d2f
+      internalID: -1311829514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_61
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fafd61566e38a2449646e680dd694f6
+      internalID: -891001114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_62
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 132
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f795f6ea8af5fe14eafed1d8b126f167
+      internalID: 266888294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_63
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 123
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e97fbb175864e949a484bd1891a4c2d
+      internalID: 1163076984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_64
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 74
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36b63e31fb3da42b65ee64a4e54c69
+      internalID: -1502651830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_65
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 126
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3f399d56f56114c9e39bb4bc9f4c5b
+      internalID: 920655552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_66
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 126
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98da523d97924c24db9da8ab4f708fa6
+      internalID: 1681674713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_67
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 101
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783b943b9b70c4a44993231e414f2784
+      internalID: -790479614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_68
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 49
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b7d3fd27ef4b348bfc71167a0cae2f
+      internalID: -783279514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_69
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 63
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15aaf73a8979a9c4f955733b9fc1f772
+      internalID: -2030690497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_70
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cec8ad1956db343abf7c2e0329a044
+      internalID: -130046181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_71
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 101
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35894859fd46a8d46afb203e1d06bcd8
+      internalID: 1002757063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_72
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 86
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e9a3ac536be449aa189b3004d3aa8
+      internalID: -807521053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_73
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da67756446ebb2a4bbada3e56ec81b3c
+      internalID: -1993946324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_74
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 74
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af8aea653097af4e822c1c6775e83a6
+      internalID: 1164205156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_75
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 77
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 246997aaa6d23bf48bbb9fbf0044b2c3
+      internalID: 1340214824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_76
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 61
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b3d7d14e273d547a50753ead0d412e
+      internalID: -1678681895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_77
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 62
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88a06a41cadf0cc4cbd84ea573a3eb7c
+      internalID: 2023503647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_78
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 19
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318aefa28fb9ba24a9c05488fa570ef2
+      internalID: 1390852266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_79
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 55
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a16aa1254556cf4893351caaa6b691f
+      internalID: 1603599094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_80
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3187d1ded0187764c9eb39ae778d2cfb
+      internalID: -997279583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_52: 53922823
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_80: -997279583
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_1: 1532534102
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_5: 1140764283
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_51: -59199522
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_41: -1335909287
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_54: -599682934
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_60: -1311829514
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_74: 1164205156
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_38: 111941352
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_3: 1307458018
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_30: -430422953
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_75: 1340214824
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_16: 363509485
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_14: -1029362626
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_50: 749327070
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_28: 238659064
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_20: 1364985005
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_53: 1691613187
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_64: -1502651830
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_22: -776537470
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_23: -114650755
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_0: 1222757738
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_29: 1224185183
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_35: -697867596
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_45: -1830665087
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_68: -783279514
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_63: 1163076984
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_47: -837786937
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_78: 1390852266
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_7: 1135237138
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_8: 1557927288
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_55: 365004894
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_70: -130046181
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_67: -790479614
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_73: -1993946324
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_18: 1540659270
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_79: 1603599094
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_19: -692844713
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_13: 52781613
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_49: 399253097
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_66: 1681674713
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_58: -1981971685
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_27: 1300759135
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_31: 1033426796
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_37: 321539991
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_48: -1979836800
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_4: 1609680276
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_59: 1232903935
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_62: 266888294
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_10: -1288115486
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_24: 1927919536
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_42: -1781337172
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_21: 781690655
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_40: 1902559364
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_46: -747621024
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_65: 920655552
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_25: 1923682249
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_15: 1978285087
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_17: 182238688
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_33: 1421780483
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_43: -803248858
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_57: -654238921
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_39: 64690340
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_69: -2030690497
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_12: -1651430890
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_26: -288899645
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_76: -1678681895
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_2: -117616024
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_9: -1902454325
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_56: 83071462
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_71: 1002757063
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_77: 2023503647
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_32: -1047659055
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_6: -613276410
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_34: 1606701620
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_44: -1406161078
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_11: 1460081260
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_36: 1357797114
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_72: -807521053
+      93-936091_drawn-explosions-sprite-explosion-sprite-sheet-doom_61: -891001114
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
